@@ -1,1 +1,1 @@
-let alarm1 = document.querySelector('')
+let alarm1 = document.querySelector('cасааааать')
